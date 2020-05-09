@@ -1,0 +1,9 @@
+html {
+  font-size: 62.5% // this is to covert our 16px base for 1rem into a 10px for 1 rem
+  // means that now, 1rem = 10 px, 25px = 2.5rem, etc.
+}
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: $dark-blue;
+}
